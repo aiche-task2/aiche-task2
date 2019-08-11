@@ -1,6 +1,7 @@
 .carousel-item img{
 height: 100%;
 width: 100%;
+  align: center;
 }
 
 .carousel-control-next-icon , .carousel-control-previous-icon{
