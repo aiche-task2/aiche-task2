@@ -2,3 +2,9 @@
 height: 100%;
 width: 100%;
 }
+
+.carousel-control-next-icon , .carousel-control-previous-icon{
+  height: 40px;
+  width: 40px;
+}
+
